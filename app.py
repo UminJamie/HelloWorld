@@ -14,3 +14,4 @@ class Point:
 
 point = Point.zero()
 point.draw()
+point.x
