@@ -14,4 +14,4 @@ class Point:
 
 point = Point.zero()
 point.draw()
-point.x = 9
+point.x = 911
